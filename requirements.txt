@@ -1,0 +1,14 @@
+# Core dependencies
+python-binance==1.0.19
+python-dotenv==1.0.1
+
+# Optional helpers
+pandas==2.2.2
+numpy==1.26.4
+
+# Logging and time handling
+colorama==0.4.6
+pytz==2024.1
+
+# For running scripts safely in isolated environments
+requests==2.32.3
