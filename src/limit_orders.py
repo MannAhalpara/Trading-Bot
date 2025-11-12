@@ -30,7 +30,6 @@ def place_limit_order(symbol: str, side: str, quantity: float, price: float, tim
             timeInForce=time_in_force,
             quantity=quantity,
             price=price,
-            timeInforce=time_in_force
         )
         logging.info(f"Limit Order Success | {symbol} | {side} | Qty: {quantity} | Price: {price}")
         print("\n Limit Order Placed Successfully")
