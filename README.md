@@ -22,7 +22,7 @@ Make sure you’re using Testnet API keys and credentials from https://testnet.b
 The repository is structured for clarity, separating core execution scripts from more complex, algorithmic strategies.
 
 ```
-mann-binance-bot/
+Trading Bot/
 ├── .gitignore               # Specifies files/folders to exclude from git (e.g., venv, .env)
 ├── requirements.txt         # List of Python dependencies (python-binance, python-dotenv, etc.)
 ├── bot.log                  # Log file for all bot actions and errors (auto-generated)
@@ -120,4 +120,4 @@ python3 src/check_order_status.py
 ## ⭐ Credits / Author
 
 Author: MannAhalpara
-Repository: https://github.com/MannAhalpara/mann-binance-bot
+Repository: https://github.com/MannAhalpara/Trading-Bot
