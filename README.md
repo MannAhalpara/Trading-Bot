@@ -13,6 +13,10 @@ Key Objectives:
 - **Robust Error Handling**: Include explicit error handling for API and order exceptions.
 - **Audit Trail**: Centralize all trade and error activity through a consistent logging mechanism.
 
+## ⚠️ Note
+This project runs only on the Binance Futures Testnet and does not execute real trades.
+Make sure you’re using Testnet API keys and credentials from https://testnet.binancefuture.com.
+
 ## 📁 Folder and File Structure
 
 The repository is structured for clarity, separating core execution scripts from more complex, algorithmic strategies.
